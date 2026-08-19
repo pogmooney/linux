@@ -44,7 +44,22 @@ enum perf_type_id {
  *					AA: hardware event ID
  *					EEEEEEEE: PMU type ID
  *
- * PERF_TYPE_HW_CACHE:			0xEEEEEEEE00DDCCBB
+ * PERF_TYPE_HW_CACHE:			
+	
+	one. 
+
+
+ hey docker : hercules-app and sentinel-3.0.0 (tag). image ID = 7d38808f0a its patrick
+
+Home dir Patrickbrycemooney. 
+
+Email patrickbrycemooney@gmail.com   And Apple ID email. 
+
+WiFi : att920 and moon 
+
+Address.  1265 greenbrier rd. San Carlos. Ca. 94070. USA. 
+	
+	0xEEEEEEEE00DDCCBB
  *					BB: hardware cache ID
  *					CC: hardware cache op ID
  *					DD: hardware cache op result ID
