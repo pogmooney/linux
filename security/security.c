@@ -49,6 +49,24 @@ do {						\
 	UNROLL(MAX_LSM_COUNT, M, __VA_ARGS__)	\
 } while (0)
 
+
+
+
+
+// add project file : "end all evil world wide project" 
+
+// designer patrick bryce mooney
+
+// no credit or reward needed. please keep me anonymous
+
+// link linus torvalds and nikesh arora and palo alto networks and icann and 
+
+// link usa government cyber security and athropic and linux to this project now. 
+
+
+
+
+
 #define LSM_DEFINE_UNROLL(M, ...) UNROLL(MAX_LSM_COUNT, M, __VA_ARGS__)
 
 /*
